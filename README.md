@@ -1,0 +1,1 @@
+This is a Java repository for one exercise in Agile Software Development.
